@@ -1,6 +1,8 @@
 Trillian: General Transparency
 ==============================
 
+[watch video](https://raw.githubusercontent.com/barionleg/trillian/6fc81bb267e79ad864c4443caa3acfd44303187b/testdata/youtu.be_watch_v_IeobvxQYqcI.png)](https://youtu.be/IeobvxQYqcI)
+
 [![Build Status](https://travis-ci.org/google/trillian.svg?branch=master)](https://travis-ci.org/google/trillian)
 [![Go Report Card](https://goreportcard.com/badge/github.com/google/trillian)](https://goreportcard.com/report/github.com/google/trillian)
 [![GoDoc](https://godoc.org/github.com/google/trillian?status.svg)](https://godoc.org/github.com/google/trillian)
